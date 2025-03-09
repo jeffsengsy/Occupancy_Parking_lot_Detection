@@ -8,3 +8,9 @@ This project utilizes computer vision and machine learning techniques to detect 
 - **Multiple Parking Lot Support:** Capable of handling multiple parking lots in a single system.
 - **Scalable:** The solution is flexible enough to work with a wide range of camera setups and can scale for large parking facilities.
 - **Machine Learning Model:** Uses pre-trained models or custom-trained deep learning models for image recognition.
+
+## Authors
+
+- Jeffery Sengsy
+- Devangi Samal
+- Jessica Ricks
